@@ -1,1 +1,3 @@
 # backand-training
+
+nodemon, postman
